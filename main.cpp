@@ -1,4 +1,5 @@
 #include <iostream>
+#include "main.hpp"
 
 //vamo enfia aqui nessa bomba só a chamada das informações e mostrar informações
 int main () {
@@ -7,7 +8,7 @@ int main () {
 }
 
 // coleta geral de dados em array
-int coleta_de_dado(){
+int data_collect(){
     std::cout << "rodando coleta geral";
     return 0;
 }
